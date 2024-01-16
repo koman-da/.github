@@ -1,2 +1,3 @@
-# .github
+# Komanda
+
 organization profile
